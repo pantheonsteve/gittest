@@ -1,7 +1,10 @@
 feature1
+Merge1
 feature1
+Merge1
 feature1
+Merge1
 feature1
-feature1
-feature1
-feature1
+Merge1
+Merge1
+Merge1
